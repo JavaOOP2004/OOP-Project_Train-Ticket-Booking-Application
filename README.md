@@ -3,8 +3,11 @@
 Train Management System involves considerations such as user management, train schedules, booking and cancellation processes, seat allocation and real-time updates.
 # Function:
   1.Booking train tickets
+  
   2.Returning train tickets 
+  
   3.Checking train tickets
+  
   4.Promotion
 
 
